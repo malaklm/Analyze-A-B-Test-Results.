@@ -13,7 +13,7 @@ This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degr
 
 
 <p align="center">
-  <img src="Source/bar.png" width="1000" height="600" />
+  <img src="Source/bar.png"/>
 </p>
 
 <p align="center">
