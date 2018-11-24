@@ -17,7 +17,7 @@ This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degr
 </p>
 
 <p align="center">
-  <img src="Source/project.png" width="1000" height="600" />
+  <img src="Source/project.png" width="600" height="400" />
 </p>
 
 #### All images desined using [Canva](http://https://www.canva.com) 
