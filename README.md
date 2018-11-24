@@ -4,7 +4,7 @@
 
 ## Analyze A/B test results
 
-Matt Gershoff, Condutrics:
+Matt Gershoff said:
 >“Test is really data collection. Personally, I think the winner/loser vocabulary perhaps induces risk adversity.”
 
 ### Summary
