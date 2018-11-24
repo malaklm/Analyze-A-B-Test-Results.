@@ -20,4 +20,11 @@ This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degr
   <img src="Source/project.png" width="700" height="400" />
 </p>
 
+### Conclusions
+1) We accept the Null Hypothesis and Reject the Alternate Hypothesis.
+2) The Null Hypothesis said there are no changes in page converted performance between the old and new page.
+3) Logistic regression model also doesn't find any changes in page converted performance between the old and new page.
+4) We should take consideration of other factors influences whether or not an individual converts.
+
+
 #### All images desined using [Canva](http://https://www.canva.com) 
