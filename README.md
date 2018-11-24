@@ -1,27 +1,23 @@
-# Udacity-Data-Analysis-Nanodegree-
-## Analyze_ab_test_results_notebook
+<p align="center">
+  <img src="Source/header.png" width="1000" height="600" />
+</p>
+
+## Analyze A/B test results
 
 ### Summary
-
 This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degree Program. The project consisted of understanding the results of an A/B test run by an e-commerce website and helping the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ### Objectives
+* Practice working on A/B testing projects and their practical difficulties.
+* Perform A/B tests and make recommendations backed by computed inferences.
 
-    practice working on A/B testing projects and their practical difficulties
-    perform A/B tests and make recommendations backed by computed inferences
 
-### Project Steps & Research Questions:
-Data Wrangling:
+<p align="center">
+  <img src="Source/bar.png" width="1000" height="600" />
+</p>
 
-    remove duplicates or records with missing or mismatched values
-    handle the rows where the landing_page and group columns don't align
+<p align="center">
+  <img src="Source/project.png" width="1000" height="600" />
+</p>
 
-### Data Analytics:
-
-    Compute probabilities of converting:
-        regardless of page.
-        Given that an individual received the treatment
-        Given that an individual received the control page
-    Perform Hypothesis Testing and calculate p-values
-    Conduct Logistic Regression
-
+#### All images desined using [Canva](http://https://www.canva.com) 
